@@ -1,0 +1,3 @@
+Aby uruchomić plik Lab2.ipynb należy zainstalować na komputerze program Visual Studio Code oraz python. Po zainstalowaniu niezbędnego oprogramowania należy zainstalować brakujące biblioteki w dodatkowej komórce pliku Lab2.ipynb komendą
+!pip install <nazwa_biblioteki>
+następnie należy wywołać komórki po kolei. Plik app.py powstanie podczas wywoływania kodu z pliku.
